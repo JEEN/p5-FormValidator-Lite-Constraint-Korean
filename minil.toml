@@ -1,0 +1,6 @@
+name = "FormValidator-Lite-Contraint-Korean"
+# badges = ["travis"]
+authority="cpan:JEEN"
+
+module_maker="ModuleBuildTiny"
+
